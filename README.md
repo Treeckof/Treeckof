@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... minor issues and environmental pollution.
 - 🌱 I’m currently learning ... python and django and bigdata analysis.
 - 💞️ I’m looking to collaborate on ... data science
-- 📫 How to reach me ... 
+- 📫 How to reach me ...yoojinkim711@gmail.com 
 
 <!---
 Treeckof/Treeckof is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
